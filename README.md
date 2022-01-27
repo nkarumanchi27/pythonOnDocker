@@ -17,4 +17,9 @@ git commit -m " initial commit"
 git remote add origin https://github.com/nkarumanchi27/pythonOnDocker.git
 git push -u origin master
   enter your git account username and the personal access token when prompted.
+  
+  
+  Also, the exact steps followed to create this docker file can be found at https://docs.docker.com/language/python/build-images/
+  
+  
  
